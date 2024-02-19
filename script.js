@@ -134,7 +134,7 @@ function createTodoElement (item) {
         }
 }
 
-
+//내용 저장.
 displayTodos();
 
 function saveToLocalStorage() {
